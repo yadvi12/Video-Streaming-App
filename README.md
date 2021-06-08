@@ -1,2 +1,2 @@
 # Video-Streaming-App
-Video Streaming App Using Computer Vision 
+Video Streaming App Using Computer Vision.
